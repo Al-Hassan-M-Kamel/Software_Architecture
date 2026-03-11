@@ -1,0 +1,10 @@
+we have a home page for a shop systems with its design components[js/css/imgs]
+in a folder called styles. 
+
+1- Create a flask project to launch this page (home_page.txt) 
+correctly as the main page.
+
+2- Using the route localhost/products display a page showing a table 
+contains the data in the product_list.txt
+
+3- make sure of your project structure & urls...

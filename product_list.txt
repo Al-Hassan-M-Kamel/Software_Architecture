@@ -1,0 +1,66 @@
+products = [
+    {
+        "id": 1,
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 1200,
+        "question": "Which category does the Laptop belong to?",
+        "answer": "Electronics"
+    },
+    {
+        "id": 2,
+        "name": "Coffee Maker",
+        "category": "Home Appliances",
+        "price": 80,
+        "question": "What appliance is used to brew coffee automatically?",
+        "answer": "Coffee Maker"
+    },
+    {
+        "id": 3,
+        "name": "Running Shoes",
+        "category": "Sportswear",
+        "price": 120,
+        "question": "Which product would you wear for jogging?",
+        "answer": "Running Shoes"
+    },
+    {
+        "id": 4,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 900,
+        "question": "Which handheld device can make calls and run apps?",
+        "answer": "Smartphone"
+    },
+    {
+        "id": 5,
+        "name": "Blender",
+        "category": "Kitchen",
+        "price": 60,
+        "question": "Which kitchen device is used to mix or puree food?",
+        "answer": "Blender"
+    },
+    {
+        "id": 6,
+        "name": "Backpack",
+        "category": "Accessories",
+        "price": 45,
+        "question": "Which item is commonly used to carry books and gear on your back?",
+        "answer": "Backpack"
+    },
+    {
+        "id": 7,
+        "name": "Desk Lamp",
+        "category": "Furniture",
+        "price": 35,
+        "question": "Which product provides light on a study desk?",
+        "answer": "Desk Lamp"
+    },
+    {
+        "id": 8,
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "price": 15,
+        "question": "Which item is used to store drinking water during workouts?",
+        "answer": "Water Bottle"
+    }
+]
