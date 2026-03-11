@@ -1,0 +1,10 @@
+we have a home page for a restaurant with its design components[js/css/imgs] in a folder called styles. 
+
+1- Create a flask project to launch this page (home_page.txt) 
+correctly as the main page.
+
+2- In this page we have this tag "<li><a href="#">Recipes</a></li>"
+use it to go to localhost/recipes that display recipes in the
+recipes_list.txt.
+
+3- make sure of your project structure & urls...
